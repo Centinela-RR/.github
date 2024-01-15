@@ -6,5 +6,5 @@
 
 👩‍💻 Recursos útiles - No sabes cómo usar GitHub Desktop y quieres colaborar? Checa la wiki [aquí](https://github.com/Centinela-RR/Custodes/wiki/Inicio)
 
-🍿 Datos interesantes - De momento, menos de la mitad de los integrantes hemos hecho algo :D
+🍿 Datos interesantes - De momento (14/01/24), menos de la mitad de los integrantes hemos hecho algo :D
 
